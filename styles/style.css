@@ -37,9 +37,9 @@
   color: black;
   font-size: 24px;
   font-weight: bold;
-  box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  box-shadow: 2px 4px 8px #444343;
   display: inline-block;
 }
 #hero-content a:hover {
-  background-color: rgb(255, 238, 0);
+  background-color: #ffee00;
 }
