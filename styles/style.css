@@ -43,3 +43,12 @@
 #hero-content a:hover {
   background-color: #ffee00;
 }
+#destinations {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+.destination img {
+  height: 200px;
+}
