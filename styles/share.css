@@ -46,3 +46,19 @@ header nav a:hover {
   background-color: #fffb00;
   border-radius: 8px;
 }
+footer {
+  background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
+  padding: 36px;
+}
+footer ul {
+  display: flex;
+  justify-content: center;
+  /* padding: 40px; */
+}
+footer li {
+  width: 80px;
+  margin: 0 50px;
+}
+footer img {
+  width: 100%;
+}
