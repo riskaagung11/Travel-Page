@@ -46,7 +46,7 @@
 }
 #highlights {
   padding: 24px;
-  background: linear-gradient(0deg, rgb(227, 255, 253), rgb(202, 243, 240));
+  background: linear-gradient(0deg, #e3fffd, #caf3f0);
 }
 #highlights h2 {
   text-transform: uppercase;
@@ -75,7 +75,7 @@
 .destination img {
   height: 200px;
   width: 100%;
-  box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  box-shadow: 2px 4px 8px #444343;
   border-radius: 10px;
   object-fit: cover;
 }
